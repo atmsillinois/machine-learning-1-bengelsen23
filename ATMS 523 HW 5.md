@@ -1,6 +1,6 @@
 # ATMS 523
 
-## Module 4 Project
+## Module 5 Project
 
 Submit this code as a pull request back to GitHub Classroom by the date and time listed in Canvas.
 
